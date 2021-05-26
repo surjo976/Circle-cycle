@@ -11,4 +11,4 @@ for i in range(6):
 turtle.hideturtle()
 
 
-'''in terminal >> pip install PythoneTurtle'''
+# in terminal >> "pip install PythoneTurtle"
